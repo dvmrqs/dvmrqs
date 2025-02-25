@@ -1,6 +1,6 @@
 <h1><strong>Hello, I'm Davi 👋</strong></h1>
 
-Davi Marques | Computer Science Student | Passionate about data analysis, algorithm development, and continuous learning in the field of technology. Eager to apply theoretical knowledge to real-world problems and contribute to innovative projects.
+
 
 
 <h1><strong>Languages</strong></h1>
